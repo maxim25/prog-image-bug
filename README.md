@@ -1,6 +1,6 @@
 # prog-image-bug
 
-> A Vue.js project
+> Example of scroll stutter using vue-progressive-image
 
 ## Build Setup
 
